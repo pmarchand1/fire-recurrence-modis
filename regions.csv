@@ -1,0 +1,7 @@
+region,subregion,xmin,xmax
+northam,westna,-180,-95
+northam,eastna,-95,0
+eurasia,scand,0,30
+eurasia,eurus,30,60
+eurasia,wsib,60,90
+eurasia,esib,90,180
